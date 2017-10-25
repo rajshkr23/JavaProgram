@@ -4,7 +4,7 @@ public class JavaProject2{
 
 		System.out.println("New feature is added");
 
-System.out.println("in Jenkinss to configure");
+System.out.println("in Jenkinss to raj configure");
 
 	}
 }
