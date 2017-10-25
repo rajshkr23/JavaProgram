@@ -7,5 +7,6 @@ public class JavaProject2{
 
 System.out.println("in Jenkinss to raj configure");
 
+
 	}
 }
